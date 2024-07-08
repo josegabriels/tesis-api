@@ -1,0 +1,29 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  reputation: 1
+  medal: MyString
+  completed_sales: 1
+  service: MyString
+  dispatch_time: 9.99
+  cancellations: 1
+  delivery_time: 9.99
+  mediations: 1
+  claims: 1
+  gross_sales: 1
+  units_sold: 1
+  average_price: 9.99
+
+two:
+  reputation: 1
+  medal: MyString
+  completed_sales: 1
+  service: MyString
+  dispatch_time: 9.99
+  cancellations: 1
+  delivery_time: 9.99
+  mediations: 1
+  claims: 1
+  gross_sales: 1
+  units_sold: 1
+  average_price: 9.99
